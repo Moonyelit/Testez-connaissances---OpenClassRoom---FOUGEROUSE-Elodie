@@ -14,3 +14,10 @@ Appliquez des styles CSS sur le fichier HTML :
 6. Ajouter une **ombre** à l'en-tête et au pied de page pour les faire ressortir.
 
 > Si vous avez des difficultés, vous pouvez vous référer à la partie 3 du cours [Créez votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061352-structurez-votre-page).
+
+
+## Résultat
+
+Voici le rendu de la page web :
+
+![Rendu de l'exercice 4](Rendu.JPG)
