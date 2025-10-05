@@ -1,3 +1,8 @@
+/* Défilement fluide pour les ancres */
+html {
+    scroll-behavior: smooth;
+}
+
 nav {
     background-color: #333;
     padding: 10px 0;
@@ -30,5 +35,4 @@ section h1 {
 }
 section p {
     font-size: 18px;
-    min-height: 100vh;
 }
