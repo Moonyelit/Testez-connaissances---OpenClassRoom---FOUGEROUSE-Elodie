@@ -11,3 +11,9 @@ Une fois les modifications terminées sur le fichier `styles.scss`, n’oubliez 
 Vérifiez ensuite que la couleur bleue est appliquée sur chaque élément de la liste.
 
 > Si vous avez des difficultés, vous pouvez vous référer au cours [Simplifiez-vous le CSS avec SASS](https://openclassrooms.com/fr/courses/8069761-simplifiez-vous-le-css-avec-sass).
+
+## Résultat
+
+Voici le rendu de la page web :
+
+![Rendu de l'exercice 5](Rendu.png)
