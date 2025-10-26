@@ -8,3 +8,13 @@ Vous avez reçu un site Web existant qui s'affiche correctement sur les **écran
     - les éléments de navigation doivent s'afficher sur une seule colonne et être centrés
 
 > Si vous avez des difficultés, vous pouvez vous référer au chapitre [Utilisez le responsive design avec les Media Queries](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061510-utilisez-le-responsive-design-avec-les-media-queries) du cours Créez votre site web avec HTML5 et CSS3 ou le chapitre [Allez plus loin avec le Responsive Design et les Breakpoints](https://openclassrooms.com/fr/courses/8242681-integrez-une-maquette-figma-en-html-css/8242706-allez-plus-loin-avec-le-responsive-design-et-les-breakpoints) du cours Intégrez une maquette en HTML/CSS.
+
+
+## Résultat
+
+Voici le rendu de la page web :
+
+<div align="center">
+  <img src="Rendu.png" alt="Rendu de l'exercice 7" />
+  <img src="Rendu2.png" alt="Rendu de l'exercice 7" />
+</div>
