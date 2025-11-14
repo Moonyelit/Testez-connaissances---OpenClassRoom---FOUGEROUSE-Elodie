@@ -11,4 +11,4 @@ Créez une page HTML contenant un en-tête de niveau 1 (`<h1>`) avec le titre "*
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 1](Rendu.JPG)
+![Rendu de l'exercice 1](Rendu.png)

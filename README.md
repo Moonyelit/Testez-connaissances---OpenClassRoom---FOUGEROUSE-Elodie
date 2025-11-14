@@ -11,7 +11,7 @@ Ce mini projet me permet de m'entraîner sur des exercices interactifs et d'éva
 Ce projet me permet de :
 
 - ✅ **M'exercer** sur les notions que j'ai vues lors des projets précédents
-- 🔍 **Vérifier mes compétences** pour identifier mes acquis
+- 🔍 **Vérifier mes compétences** pour identifie¤r mes acquis
 - 📈 **Identifier les sujets** sur lesquels je dois encore m'améliorer
 - 🎯 **Valider mes connaissances** en HTML5, CSS3 et JavaScript
 

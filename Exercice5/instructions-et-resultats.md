@@ -8,4 +8,4 @@ Créez une **page HTML** pour un site Web simple avec une barre de **navigation*
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 5](Rendu.JPG)
+![Rendu de l'exercice 5](Rendu.png)

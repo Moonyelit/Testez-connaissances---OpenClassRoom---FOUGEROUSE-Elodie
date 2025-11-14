@@ -10,4 +10,4 @@
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 3](Rendu.JPG)
+![Rendu de l'exercice 3](Rendu.png)

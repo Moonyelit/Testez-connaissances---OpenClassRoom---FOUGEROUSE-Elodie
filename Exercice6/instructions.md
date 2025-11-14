@@ -16,4 +16,4 @@ Vérifiez ensuite que la couleur bleue est appliquée sur chaque élément de la
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 5](Rendu.png)
+![Rendu de l'exercice 6](Rendu.png)

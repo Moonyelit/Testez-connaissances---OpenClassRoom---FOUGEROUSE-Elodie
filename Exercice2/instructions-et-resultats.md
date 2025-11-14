@@ -18,7 +18,7 @@ N'oubliez pas d'ajouter le titre aussi dans le `<head>`.
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 2](Rendu.JPG)
+![Rendu de l'exercice 2](Rendu.png)
 
 La page web présente le groupe **Ghost** avec :
 

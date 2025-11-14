@@ -20,4 +20,4 @@ Appliquez des styles CSS sur le fichier HTML :
 
 Voici le rendu de la page web :
 
-![Rendu de l'exercice 4](Rendu.JPG)
+![Rendu de l'exercice 4](Rendu.png)
